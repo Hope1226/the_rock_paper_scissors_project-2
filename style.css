@@ -1,0 +1,9 @@
+main{
+    display: grid;
+    height: 100%;
+    grid-column: 1;
+    grid-row: 1;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    background-color: rgb(105, 160, 105);
+}
